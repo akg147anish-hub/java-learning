@@ -13,4 +13,3 @@ public class PalindromeString {
             System.out.println("Not Palindrome");
         }
     }
-}
